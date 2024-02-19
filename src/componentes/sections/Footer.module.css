@@ -10,6 +10,10 @@
     margin: 25px;
 }
 
+.Footer li{
+    margin-left: 20px;
+}
+
 .Footer a{
     color: aliceblue !important;
 }
